@@ -168,7 +168,7 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
+  border-bottom: 2px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
 }
@@ -803,7 +803,7 @@ progress {
 
   /* Dimensions */
   width: 100%;
-  height: 1px;
+  height: 2px;
 
   /* Reset the appearance */
   -webkit-appearance: none;
